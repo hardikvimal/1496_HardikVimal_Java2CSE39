@@ -1,1 +1,1 @@
-# 1496_HardikVimal_JavaC2CSE39
+# 1496_HardikVimal_Java2CSE39
